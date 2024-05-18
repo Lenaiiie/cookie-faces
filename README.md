@@ -1,10 +1,11 @@
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+# Upscaled Faces Textures And Normals For Fivem
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+## Comparison:
 
-[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+Using [BetterFaces](https://forum.cfx.re/t/free-standalone-betterfaces/4850672)
+![BetterFaces](https://media.discordapp.net/attachments/1108829554010759211/1241405797594824775/image.png?ex=664a14be&is=6648c33e&hm=c88ecd798b6751c53af7533029cf19e50be872fc4552fcf68022712998c38f64&=&format=webp&quality=lossless)
 
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
-[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+Using mine
+![CookieFaces](https://media.discordapp.net/attachments/1108829554010759211/1241405798018453544/image.png?ex=664a14be&is=6648c33e&hm=0fd806c63c94ffa8bc78142f316a6327ec149d287fbe48db4edb233631dd1a9b&=&format=webp&quality=lossless&width=691&height=671)
+
